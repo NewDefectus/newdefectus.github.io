@@ -1,0 +1,13 @@
+{% include header.html %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | relative_url }}">
+        <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+    </head>
+    <body>
+        {{ content }}
+    </body>
+</html>
