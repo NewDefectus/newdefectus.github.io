@@ -9,7 +9,7 @@
             {{ page.title }}
         {% else %}
             <a href="{{ site.baseurl }}/{{ crumbs | slice: 0, forloop.index | join: "/" }}">
-                {{- crumb | replace: '-', '' | remove: '.html' | capitalize -}}
+                {{- crumb | replace: '-', ' ' | remove: '.html' | capitalize -}}
             </a>
         {% endif %}
     {% endfor %}
