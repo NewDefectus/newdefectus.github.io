@@ -3,4 +3,12 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
+{% if page.start-date == null %}
+    Published on {{page.end-date | date: "%B %e, %Y"}}
+{% else %}
+    Written between {{page.start-date | date: "%B %e, %Y"}} and {{page.end-date | date: "%B %e, %Y"}}
+{% endif %}
+<br>
+<br>
+<hr>
 {{ content }}
