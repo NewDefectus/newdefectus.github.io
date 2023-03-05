@@ -2,6 +2,8 @@
 layout: story
 title: Track of Time
 categories: writing short-stories
+start-date: 09-02-2020
+end-date: 19-02-2020
 ---
 
 Then sometime in late February we woke up where we were before. Everyone else became vines. At first I thought this was another one of your tricks, but I parted the curtains and saw winter dawning on the grass. You're not capable of that.

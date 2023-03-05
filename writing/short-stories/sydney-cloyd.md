@@ -2,6 +2,8 @@
 layout: story
 title: The Sorry Ego of Sydney Cloyd
 categories: writing short-stories
+start-date: 23-09-2018
+end-date: 16-10-2018
 ---
 
 I confess, I was none too alert when that terrible mishap occurred. It was a rough day at the factory, and, rather than calming me, the pair of light beers I grabbed at the gas station only left me more distrait. The surge of adrenaline I so horribly needed only arrived after I heard that sound… that awful, awful sound…

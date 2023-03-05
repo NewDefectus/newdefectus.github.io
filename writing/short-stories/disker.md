@@ -2,6 +2,8 @@
 layout: story
 title: Disker
 categories: writing short-stories
+start-date: 20-10-2018
+end-date: 09-12-2018
 ---
 
 There's something undeniably ethereal about the nighttime highlands. Some say it's the unmatched landscape; others argue it's the immaculate view of the stars; still others believe that the ancient ghost of a dweller haunts the land and tricks the unwary wanderer into delirium.
