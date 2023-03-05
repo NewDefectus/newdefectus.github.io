@@ -2,8 +2,8 @@
 layout: story
 title: The Well (version 2)
 categories: writing short-stories
-start-date: 10-04-2020
-end-date: 08-06-2020
+start-date: 2020-04-10
+end-date: 2020-06-08
 ---
 
 Creeeeaaak. Creeeeaaak. Creeee—swoosh, splash!

@@ -2,8 +2,8 @@
 layout: story
 title: The Sable-Haired Man
 categories: writing short-stories
-start-date: 07-09-2018
-end-date: 13-09-2018
+start-date: 2018-09-07
+end-date: 2018-09-13
 ---
 
 It was a particularly cold November evening, I recollect. It had rained the previous day, and the nostalgic petrichor still lingered in the damp air. Though my feet tapped eagerly at the floor, longing for that wonderful feeling of adventure, the mere thought of leaving the comfort of my couch displeased me. I suspected I'd caught some sort of fever during one of my expeditions, though I only inferred that possibility from the uncharacteristic urge that ordered me to keep watching the crackling fire.

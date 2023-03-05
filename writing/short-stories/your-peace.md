@@ -2,8 +2,8 @@
 layout: story
 title: Your Peace
 categories: writing short-stories
-start-date: 26-02-2020
-end-date: 26-03-2020
+start-date: 2020-02-26
+end-date: 2020-03-26
 ---
 
 Here's what you need to know about me: I am perfect.

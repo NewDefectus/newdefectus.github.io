@@ -2,7 +2,7 @@
 layout: story
 title: An alcoholic walks into a bar.
 categories: writing anti-anti-jokes
-end-date: 12-10-2019
+end-date: 2019-10-12
 ---
 
 He hobbles over to the counter and stares at the bartender, a tear welling in his left eye. "Listen, sir. I know you are a good man. You love your wife dearly, you walk your children to school every day, and you pay your taxes."
