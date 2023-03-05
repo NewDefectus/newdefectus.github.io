@@ -7,10 +7,21 @@ body {
 }
 
 header {
-    background-color: bisque;
+    background-color: #ffe4c4;
     font-size: 1.5em;
 }
 
 nav {
     font-size: 0.8em;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #111;
+        color: white;
+    }
+
+    header {
+        background-color: #3265cb;
+    }
 }
