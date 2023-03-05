@@ -2,7 +2,7 @@
 
 <nav>
 {% if crumbs != empty %}
-    <a href="{% link index.md %}">Home</a>
+    <a href="{{ site.baseurl }}/">Home</a>
     {% for crumb in crumbs %}
         >>
         {% if forloop.last %}
