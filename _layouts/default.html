@@ -1,4 +1,3 @@
-{% include header.html %}
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,6 +7,8 @@
         <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
     </head>
     <body>
-        {{ content }}
+        {% include header.html %}
+        {% include breadcrumbs.html %}
+        <div id="content">{{ content }}</div>
     </body>
 </html>

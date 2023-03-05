@@ -1,11 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
+layout: index
 title: DefSite
 ---
 
-Welcome to my website! :D
+Hi! I'm Alon Ran (aka Defectus). Welcome to my website! :D
 
-This is where I collect and categorize all of my creative work, including stories, games, and programming projects.
+This is where I collect and categorize all of my creative works, including stories, games, and programming projects.

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h2>Index</h2>
+
+{% assign page_cat = page.categories | split: " " | last %}
+
+<ul>
+{% for p in site.pages %}
+{% assign p_cats = p.categories | split: " " %}
+{% if p.layout == "index" %}
+    {% assign p_cat = p_cats | slice: -2 | last %}
+{% else %}
+    {% assign p_cat = p_cats | last %}
+{% endif %}
+{% if p_cats != empty and p.url != page.url and p_cat == page_cat %}
+    <li>
+        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    </li>
+{% endif %}
+{% endfor %}
+</ul>
