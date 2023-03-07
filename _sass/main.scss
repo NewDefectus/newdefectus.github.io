@@ -9,10 +9,17 @@ body {
 header {
     background-color: #ffe4c4;
     font-size: 1.5em;
+    margin-top: 0.67em;
+    padding: 0.2em;
+}
+
+header h1 {
+    margin-bottom: 0.1em;
+    margin-top: 0;
 }
 
 nav {
-    font-size: 0.8em;
+    font-size: 0.65em;
 }
 
 @media (prefers-color-scheme: dark) {
