@@ -1,16 +1,24 @@
-{% assign crumbs = page.url | split: '/' | slice: 1, 3000 %}
+{% assign crumbs = page.categories | split: ' ' %}
+{% assign crumbs_length = crumbs | size %}
+{% if page.layout != 'index' %}
+    {% assign crumbs_length = crumbs_length | plus: 1 %}
+{% endif %}
 
 <nav>
 {% if crumbs != empty %}
     <a href="{{ site.baseurl }}/">Home</a>
-    {% for crumb in crumbs %}
+    {% for i in (1..crumbs_length) %}
         >>
         {% if forloop.last %}
             {{ page.title }}
         {% else %}
-            <a href="{{ site.baseurl }}/{{ crumbs | slice: 0, forloop.index | join: "/" }}">
-                {{- crumb | replace: '-', ' ' | remove: '.html' | capitalize -}}
-            </a>
+            {% assign page_cats = crumbs | slice: 0, i | join: ' ' %}
+            {% for p in site.pages %}
+                {% if p.layout == 'index' and p.categories == page_cats %}
+                    <a href="{{ p.url | relative_url }}">{{p.title}}</a>
+                    {% break %}
+                {% endif %}
+            {% endfor %}
         {% endif %}
     {% endfor %}
 {% else %}
