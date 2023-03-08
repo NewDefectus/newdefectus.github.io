@@ -113,11 +113,11 @@ Wow. A woman of semantics and of jests! How pleasant! The bartender giggles. "Fa
 
 "Reddit."
 
-"—is called r/Jokes. You see, jokes are like this sandwich—the punchline is promising…" He points out the lettuce, tomatoes and cheese sticking out the sides of the sandwich. "…and usually…" He opens up the sandwich, revealing the tasty interior filled with meat, condiments and vegetables. "…a satisfying punchline is delivered. But for some people this template is too mundane, and so one day they decided to create a new type of joke, represented by this second sub—"
+"—is called [r/Jokes](https://www.reddit.com/r/Jokes/). You see, jokes are like this sandwich—the punchline is promising…" He points out the lettuce, tomatoes and cheese sticking out the sides of the sandwich. "…and usually…" He opens up the sandwich, revealing the tasty interior filled with meat, condiments and vegetables. "…a satisfying punchline is delivered. But for some people this template is too mundane, and so one day they decided to create a new type of joke, represented by this second sub—"
 
 "Reddit."
 
-"—which may at first appear innocuously similar to the normal joke…" He compares the identical outside appearance of the first two sandwiches. "…but when you look inside, the punchline is missing, and instead…" He opens up the sandwich, revealing an empty interior previously hidden by the hollow exterior. "…you get an empty, unsatisfying response. For these people, even though the joke itself isn't very funny, the anticipation of the punchline and the delivery, or lack thereof, is entertaining in and of itself. It's a much more abstract type of humor, and because these jokes are so against the concept of a regular joke, they're often dubbed r/AntiJokes."
+"—which may at first appear innocuously similar to the normal joke…" He compares the identical outside appearance of the first two sandwiches. "…but when you look inside, the punchline is missing, and instead…" He opens up the sandwich, revealing an empty interior previously hidden by the hollow exterior. "…you get an empty, unsatisfying response. For these people, even though the joke itself isn't very funny, the anticipation of the punchline and the delivery, or lack thereof, is entertaining in and of itself. It's a much more abstract type of humor, and because these jokes are so against the concept of a regular joke, they're often dubbed [r/AntiJokes](https://www.reddit.com/r/AntiJokes/)."
 
 "Wow. Sounds fascinating. Could you give me an example?"
 
@@ -141,7 +141,7 @@ The bartender nearly flushes. "Th-thank you."
 
 "—for?"
 
-"Oh, this one?" He moves on to the final sandwich, which again seems to be overflowing with sandwich goodness, much like its two brothers, except it emits a slight iridescent glow. "This one's a little weird. You see, for some people even the anti-joke is not enough for their absurd minds, and its supposed subversion of the joke formula merely creates a new template, one that is simply a slightly altered version of the first. So they've created yet another type of joke, one that allows much more freedom than the first two—they're called r/AntiAntiJokes. These can be almost anything—a story, a short poem, a wall of absolute nonsense, a ridiculous blend of jokes and anti-jokes, and so, so much more. And to represent this universe of options, this sub—"
+"Oh, this one?" He moves on to the final sandwich, which again seems to be overflowing with sandwich goodness, much like its two brothers, except it emits a slight iridescent glow. "This one's a little weird. You see, for some people even the anti-joke is not enough for their absurd minds, and its supposed subversion of the joke formula merely creates a new template, one that is simply a slightly altered version of the first. So they've created yet another type of joke, one that allows much more freedom than the first two—they're called [r/AntiAntiJokes](https://www.reddit.com/r/AntiAntiJokes/). These can be almost anything—a story, a short poem, a wall of absolute nonsense, a ridiculous blend of jokes and anti-jokes, and so, so much more. And to represent this universe of options, this sub—"
 
 "Reddit."
 
@@ -169,11 +169,11 @@ When the joke is over, and she hears the ultimate punchline, she nearly tears up
 
 "Are there any more types of jokes?"
 
-"Well, there are three more types of jokes I haven't mentioned, but uh…" He glances beneath the counter at the radioactive green r/antiantiantijokes sandwich, the rotting r/AntiAntiAntiAntiJokes slice of toast, and the uncomfortably plain r/AntiAntiAntiAntiAntiJ salad, and shakes his head. "We don't talk about those."
+"Well, there are three more types of jokes I haven't mentioned, but uh…" He glances beneath the counter at the radioactive green [r/antiantiantijokes](https://www.reddit.com/r/antiantiantijokes/) sandwich, the rotting [r/AntiAntiAntiAntiJokes](https://www.reddit.com/r/AntiAntiAntiAntiJokes/) slice of toast, and the uncomfortably plain [r/AntiAntiAntiAntiAntiJ](https://www.reddit.com/r/AntiAntiAntiAntiAntiJ/) salad, and shakes his head. "We don't talk about those."
 
 "Why not?" she asks.
 
-"Well, uh…" Again, he glances at the radioactive green r/antiantiantijokes sandwich, the rotting r/AntiAntiAntiAntiJokes slice of toast, and the still uncomfortably plain r/AntiAntiAntiAntiAntiJ salad, and shakes his head. "They get kind of lazy beyond two anti's. Just as an example, here's an anti-anti-anti-joke, though it could very well also be an anti-anti-anti-anti-joke, or an anti-anti-anti-anti-anti-joke: a horse walks. nar."
+"Well, uh…" Again, he glances at the radioactive green [r/antiantiantijokes](https://www.reddit.com/r/antiantiantijokes/) sandwich, the rotting [r/AntiAntiAntiAntiJokes](https://www.reddit.com/r/AntiAntiAntiAntiJokes/) slice of toast, and the still uncomfortably plain [r/AntiAntiAntiAntiAntiJ](https://www.reddit.com/r/AntiAntiAntiAntiAntiJ/) salad, and shakes his head. "They get kind of lazy beyond two anti's. Just as an example, here's an anti-anti-anti-joke, though it could very well also be an anti-anti-anti-anti-joke, or an anti-anti-anti-anti-anti-joke: a horse walks. nar."
 
 "Hmm. Yeah, I see what you're saying. But there is still some meaning to extract from it, as absurd as it might seem at first glance. The word 'nar' seems to be a hybrid of the words 'neigh,' the sound a horse makes, and 'bar,' the missing word from the setup. Perhaps 'nar' is the only way the horse can recognize the establishment he walks into. Otherwise, he's really nothing more than a horse wandering around aimlessly."
 

@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>{{ page.title }} {% if page.tags contains "star" %}⭐{% endif %}</h1>
 {{ content }}

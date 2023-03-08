@@ -4,6 +4,7 @@ title: A man is driving down the road and breaks down near a monastery. He goes 
 categories: writing anti-anti-jokes
 start-date: 2019-11-08
 end-date: 2019-12-04
+tags: star
 ---
 
 The monks graciously accept him, feed him dinner, even fix his car. As the man tries to fall asleep, he hears a strange sound—a kind of soft hum, barely there, hovering at the edge of his aural horizon. After some time, he decides to investigate.

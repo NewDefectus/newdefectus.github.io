@@ -2,6 +2,7 @@
 layout: index
 title: The Bart Ender Saga
 categories: writing anti-anti-jokes bart-ender
+tags: star
 ---
 
 A significant number of the anti-anti-jokes I've written in the past are interconnected and form a continuous (if convoluted) narrative when read together. This narrative has no particular name, but for this website I've decided to call it the Bart Ender Saga (named after the protagonist of the first two anti-anti-jokes).

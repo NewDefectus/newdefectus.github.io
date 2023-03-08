@@ -4,6 +4,7 @@ title: 20 Jokes That'll Make You Go "Karblowza!"
 categories: writing anti-anti-jokes
 start-date: 2019-12-20
 end-date: 2020-01-28
+tags: star
 ---
 
 ## #1 "I Am"

@@ -2,6 +2,7 @@
 layout: creation
 title: DefAssembler
 categories: programming
+tags: star
 ---
 
 [DefAssembler](https://github.com/NewDefectus/defAsm) is an assembler (an Assembly compiler) for the x86-64 instruction set that is made to run in real-time on browsers. For this purpose it is written in JavaScript, and it's designed to integrate incremental changes to the source code efficiently.
