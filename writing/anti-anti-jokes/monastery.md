@@ -504,3 +504,15 @@ Nathan nods sympathetically.
 They reach the clearing again, and in the center once more sits the veiled Mirror. The malloc stops under the shade and smiles at him. He smiles back, then walks forward, towards the Mirror. His heart races, his hands shake, and he realizes that the truth may still be out there, after all.
 
 He pulls the veil, and—
+
+<hr>
+
+<details>
+    <summary>But I can't tell you what he saw because Reddit has a 40,000 character limit.</summary>
+
+    I guess I should explain this one.
+
+    This anti-anti-joke was <a href="https://www.reddit.com/r/AntiAntiJokes/comments/e7fx1j/a_man_is_driving_down_the_road_and_breaks_down/">posted on Reddit</a>, where posts have a 40,000 character limit. The punchline of the <a href="https://www.reddit.com/r/Jokes/comments/8z27yz/a_man_is_driving_down_the_road_and_breaks_down/">original joke</a> was something like "But I can't tell you what he saw because you're not a monk," but I reworked it so that the punchline was that the story became so long that I simply couldn't fit the description of what the protagonist saw into the post.
+
+</details>
+<br>
