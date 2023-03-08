@@ -10,6 +10,4 @@ Click and drag (or use arrow keys) to move around the plane; use the mouse wheel
 
 <iframe src="https://newdefectus.github.io/mandelbrot/?iters=256"></iframe>
 
-For more information on the project, I've also attached the README.md file on the repository:
-
-<iframe src="https://github.com/NewDefectus/mandelbrot/blob/master/README.md"></iframe>
+For more information I recommend reading the [README.md](https://github.com/NewDefectus/mandelbrot#readme) file on the GitHub repository.
