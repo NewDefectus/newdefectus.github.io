@@ -2,5 +2,9 @@
 layout: default
 ---
 
-<h1>{{ page.title }} {% if page.tags contains "star" %}⭐{% endif %}</h1>
+<h1>{{ page.title }}
+    {% if page.tags contains "star" %}⭐{% endif %}
+    {% if page.tags contains "wip" %}<span class="wip">[WORK-IN-PROGRESS]</span>{% endif %}
+    {% if page.tags contains "unfinished" %}<span class="unfinished">[UNFINISHED]</span>{% endif %}
+</h1>
 {{ content }}

@@ -31,9 +31,16 @@ a {
 }
 
 iframe {
-    width: 100%;
     height: 35em;
     border: none;
+}
+
+.unfinished {
+    color: red
+}
+
+.wip {
+    color: orange
 }
 
 @media (prefers-color-scheme: dark) {
