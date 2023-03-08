@@ -231,4 +231,4 @@ Seven eternities later, a frantic man bursts through the doors, huffing and puff
 
 And it is good.
 
-["Reddit."](https://www.reddit.com/r/AntiAntiJokes/comments/d0m2sb/why_did_hitler_kill_himself_part_1_eternity/)
+"Reddit."

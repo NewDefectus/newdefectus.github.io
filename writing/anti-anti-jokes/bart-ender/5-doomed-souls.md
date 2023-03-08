@@ -151,4 +151,4 @@ It seems to her that the doomed souls had been nought but skeletons for a long t
 
 Directly below the light, an air vent is now revealed. Clie punches through it, and it shatters. Interestingly, though one of the doomed souls recalled the light once working, he nonetheless never bothered to check the vent underneath it, or perhaps didn't dare go through it.
 
-[What, then, must lie beyond it?](https://www.reddit.com/r/AntiAntiJokes/comments/doqlxq/an_escaped_convict_crawls_into_a_penthouse/)
+What, then, must lie beyond it?

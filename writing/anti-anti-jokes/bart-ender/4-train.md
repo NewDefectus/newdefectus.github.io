@@ -101,4 +101,4 @@ Everything is cracking. Everything is dying.
 
 The train hits t⪣⡀І㔝㖛㎅⽰ޓЈ╎⽣➇ߦм⢧ビⷂⶾァ㞵⭂⾗⨀Є╪в㔻⢔㍦㋶⬦►ⷰ⟽Ъ⛿ⶾ┳⿊⥺Э㕊⫖ⓙ㒰Э⠟⚖⪌る⢘㑀Џ┟⛔㍩ゾ㏞㐶д╌ⶣⷫМ㍋⠺╠ⷺ⮢㒢⯉⢅㏠Сⓟ⿞❑Ўⓑн⫝̸〳㋘㋇⮾☝⹍⟱з㑮㞕⟨㍝㛴⠯Ѓ╟◰エ㘅㓼О㔈⮵⹲⢣Т⯕㒯㑯⟜⹀⤪ߓП㐡ⷖows down, very gradually, to a crawl.
 
-[And everything turns silent.](https://www.reddit.com/r/AntiAntiJokes/comments/dmjgbr/how_many_doomed_souls_does_it_take_to_change_a/)
+And everything turns silent.

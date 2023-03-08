@@ -1285,7 +1285,7 @@ Bart smiles. He doesn't even remember what he's smiling about. He picks up anoth
 
 &nbsp;
 
-It seems that everything is back to normal. Bart has returned to his past life, and so has Clie, though [we'll leave that story for another day](https://www.reddit.com/r/AntiAntiJokes/comments/dl2q09/an_economist_a_logician_and_a_mathematician_are/). Now, is this it, you ask? Is this the end? Perhaps. But as we all know, history, and its counterpart in Bart's time, has a tendency to repeat. And indeed, repeat it will.
+It seems that everything is back to normal. Bart has returned to his past life, and so has Clie, though we'll leave that story for another day. Now, is this it, you ask? Is this the end? Perhaps. But as we all know, history, and its counterpart in Bart's time, has a tendency to repeat. And indeed, repeat it will.
 
 Again and again.
 
