@@ -3,6 +3,7 @@ layout: story
 title: An escaped convict crawls into a penthouse
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-29
+index: 6
 ---
 
 through an air vent, wearing dusty clothes and covered in soot. She stands up, coughing, and scans the room nervously. Numerous large monitors decorate the dark walls of the hall, and at the other end is a massive window, offering a fantastic view of the Shadow Realm and all of its floating islands and skies. Before the window stands a figure, draped with a long, ornate velvet robe, gazing at the view silently and without motion.

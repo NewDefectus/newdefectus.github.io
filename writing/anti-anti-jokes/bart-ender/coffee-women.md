@@ -3,6 +3,7 @@ layout: story
 title: I like my coffee like I like my women
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-08-29
+index: 1
 ---
 
 says the grizzly bartender, stroking his silver goatee.

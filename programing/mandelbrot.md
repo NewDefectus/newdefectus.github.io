@@ -2,6 +2,7 @@
 layout: creation
 title: Mandelbrot viewer
 categories: programming
+index: 2
 ---
 
 This is a [Mandelbrot viewer](https://github.com/NewDefectus/mandelbrot) I wrote in JavaScript between late 2018 and early 2019. It's designed for smooth exploration and customization. I've attached an iframe of it down below (full page can be found [here](https://newdefectus.github.io/mandelbrot/)).

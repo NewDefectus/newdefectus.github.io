@@ -3,6 +3,7 @@ layout: story
 title: An economist, a logician and a mathematician are on a train to Scotland.
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-21
+index: 4
 ---
 
 The economist spots a brown cow standing parallel to the train and says, "Look! The cows in Scotland are brown!"

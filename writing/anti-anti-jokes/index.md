@@ -2,6 +2,7 @@
 layout: index
 title: Anti-anti-jokes
 categories: writing anti-anti-jokes
+index: 2
 ---
 
 This is a collection of my anti-anti-jokes.

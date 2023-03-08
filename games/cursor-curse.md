@@ -3,6 +3,7 @@ layout: creation
 title: Cursor Curse
 categories: games
 tags: unfinished
+index: 2
 ---
 
 Cursor Curse was a 2D puzzle game I wrote in [Unity](https://unity.com/) around late 2017. The idea was that you controlled a Windows-style cursor on a screen and navigated through obstacles, with the final goal of each level being to press a red button (or a set of red buttons simultaneously, since for some levels you control multiple cursors).

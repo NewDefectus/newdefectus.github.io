@@ -3,6 +3,7 @@ layout: story
 title: An ordinary man walks into a bar.
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-16
+index: 3
 ---
 
 "What'll it be, Ordinaryman?" the bartender chuckles.

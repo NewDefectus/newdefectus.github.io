@@ -3,6 +3,7 @@ layout: story
 title: Why did Hitler kill himself?
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-09-06
+index: 2
 ---
 
 ## Part 1: Eternity

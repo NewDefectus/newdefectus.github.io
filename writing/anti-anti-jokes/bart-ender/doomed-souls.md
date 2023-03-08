@@ -3,6 +3,7 @@ layout: story
 title: How many doomed souls does it take to change a light bulb?
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-24
+index: 5
 ---
 
 This is the first question that crosses Clie's mind as she awakens, and she's not entirely sure why.

@@ -5,19 +5,26 @@ layout: default
 {{ content }}
 
 {% assign page_cat = page.categories | split: " " | last %}
+{% assign items = '' | split: '' %}
+
+{% for p in site.pages %}
+    {% assign p_cats = p.categories | split: " " %}
+    {% if p.layout == "index" %}
+        {% assign p_cat = p_cats | slice: -2 | last %}
+    {% else %}
+        {% assign p_cat = p_cats | last %}
+    {% endif %}
+    {% if p_cats != empty and p.url != page.url and p_cat == page_cat %}
+        {% assign items = items | push: p %}
+    {% endif %}
+{% endfor %}
+
+{% assign items = items | sort: "index" %}
 
 <ul>
-{% for p in site.pages %}
-{% assign p_cats = p.categories | split: " " %}
-{% if p.layout == "index" %}
-    {% assign p_cat = p_cats | slice: -2 | last %}
-{% else %}
-    {% assign p_cat = p_cats | last %}
-{% endif %}
-{% if p_cats != empty and p.url != page.url and p_cat == page_cat %}
-    <li>
-        <a href="{{ p.url | relative_url }}">{{ p.title }}</a> {% if p.tags contains "star" %}⭐{% endif %}
-    </li>
-{% endif %}
-{% endfor %}
+    {% for item in items %}
+        <li>
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a> {% if item.tags contains "star" %}⭐{% endif %}
+        </li>
+    {% endfor %}
 </ul>
