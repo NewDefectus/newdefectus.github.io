@@ -4,6 +4,8 @@ layout: creation
 
 {% if page.start-date == null %}
     Published on {{page.end-date | date: "%B %e, %Y"}}
+{% elsif page.start-date == page.end-date %}
+    Written on {{page.start-date | date: "%B %e, %Y"}}
 {% else %}
     Written between {{page.start-date | date: "%B %e, %Y"}} and {{page.end-date | date: "%B %e, %Y"}}
 {% endif %}
