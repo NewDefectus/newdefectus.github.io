@@ -10,7 +10,11 @@
     {% for i in (1..crumbs_length) %}
         >>
         {% if forloop.last %}
-            {{ page.title }}
+            {% if page.short-title %}
+                {{page.short-title}}
+            {% else %}
+                {{page.title}}
+            {% endif %}
         {% else %}
             {% assign page_cats = crumbs | slice: 0, i | join: ' ' %}
             {% for p in site.pages %}

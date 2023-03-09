@@ -24,7 +24,13 @@ layout: default
 <ul>
     {% for item in items %}
         <li>
-            <a href="{{ item.url | relative_url }}">{{ item.title }}</a> {% if item.tags contains "star" %}⭐{% endif %}
+            <a href="{{ item.url | relative_url }}">
+                {% if item.short-title %}
+                    {{ item.short-title }}
+                {% else %}
+                    {{ item.title }}
+                {% endif %}
+            </a> {% if item.tags contains "star" %}⭐{% endif %}
         </li>
     {% endfor %}
 </ul>
