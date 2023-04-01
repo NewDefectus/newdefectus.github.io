@@ -3,6 +3,7 @@ layout: story
 title: Did you hear the one about the guy who lost his quotation marks?
 categories: writing anti-anti-jokes
 end-date: 2019-09-24
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/d8j0q9/did_you_hear_the_one_about_the_guy_who_lost_his/
 ---
 
 [STORY]

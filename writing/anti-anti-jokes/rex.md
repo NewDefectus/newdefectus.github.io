@@ -3,6 +3,7 @@ layout: story
 title: Why couldn't the T-Rex clap his hands?
 categories: writing anti-anti-jokes
 end-date: 2019-10-04
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/ddcnya/why_couldnt_the_trex_clap_his_hands/
 ---
 
 [STORY]

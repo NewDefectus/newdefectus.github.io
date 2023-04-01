@@ -4,6 +4,7 @@ title: A horse walks into the transfinite continuum
 categories: writing anti-anti-jokes
 start-date: 2020-08-27
 end-date: 2020-08-28
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/iifnct/a_horse_walks_into_the_transfinite_continuum/
 ---
 
 [STORY]

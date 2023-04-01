@@ -4,6 +4,7 @@ title: Track of Time
 categories: writing short-stories
 start-date: 2020-02-09
 end-date: 2020-02-19
+publish-link: https://www.reddit.com/user/NewDefectus/comments/f7dlu0/track_of_time/
 ---
 
 [STORY]

@@ -3,6 +3,7 @@ layout: story
 title: How many doomed souls does it take to change a light bulb?
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-24
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/dmjgbr/how_many_doomed_souls_does_it_take_to_change_a/
 index: 5
 ---
 

@@ -3,6 +3,7 @@ layout: story
 title: An economist, a logician and a mathematician are on a train to Scotland.
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-21
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/dl2q09/an_economist_a_logician_and_a_mathematician_are/
 index: 4
 ---
 

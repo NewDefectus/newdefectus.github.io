@@ -4,6 +4,7 @@ title: A very badly written female character walks into a hospital
 categories: writing anti-anti-jokes
 start-date: 2019-09-16
 end-date: 2019-09-19
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/d79qgu/a_very_badly_written_female_character_walks_into/
 ---
 
 [STORY]

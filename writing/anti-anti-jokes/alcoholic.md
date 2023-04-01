@@ -3,6 +3,7 @@ layout: story
 title: An alcoholic walks into a bar.
 categories: writing anti-anti-jokes
 end-date: 2019-10-12
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/dgxgbb/an_alcoholic_walks_into_a_bar/
 ---
 
 [STORY]

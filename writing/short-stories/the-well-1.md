@@ -5,6 +5,7 @@ story-title: The Well
 categories: writing short-stories
 start-date: 2020-02-03
 end-date: 2020-02-05
+publish-link: https://www.reddit.com/user/NewDefectus/comments/ezaf8f/the_well/
 ---
 
 [STORY]

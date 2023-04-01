@@ -3,6 +3,7 @@ layout: story
 title: A mathematician is walking in the forest when suddenly he stumbles upon the number 1.
 categories: writing anti-anti-jokes
 end-date: 2020-10-11
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/j934wr/a_mathematician_is_walking_in_the_forest_when/
 ---
 
 [STORY]

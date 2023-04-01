@@ -9,12 +9,20 @@ layout: default
     {% if page.tags contains "unfinished" %}<span class="unfinished">[UNFINISHED]</span>{% endif %}
 </h1>
 
+{% if page.publish-link %}
+<a href="{{ page.publish-link }}">
+{% endif %}
+
 {% if page.start-date == null %}
     (Published on {{page.end-date | date: "%B %e, %Y"}})
 {% elsif page.start-date == page.end-date %}
     (Written on {{page.start-date | date: "%B %e, %Y"}})
 {% else %}
     (Written between {{page.start-date | date: "%B %e, %Y"}} and {{page.end-date | date: "%B %e, %Y"}})
+{% endif %}
+
+{% if page.publish-link %}
+</a>
 {% endif %}
 
 {% assign story_parts = content | split: "[STORY]" %}

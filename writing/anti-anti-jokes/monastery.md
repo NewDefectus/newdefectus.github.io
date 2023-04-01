@@ -4,6 +4,7 @@ title: A man is driving down the road and breaks down near a monastery. He goes 
 categories: writing anti-anti-jokes
 start-date: 2019-11-08
 end-date: 2019-12-04
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/e7fx1j/a_man_is_driving_down_the_road_and_breaks_down/
 tags: star
 ---
 

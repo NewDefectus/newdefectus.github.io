@@ -3,8 +3,13 @@ layout: story
 title: I like my coffee like I like my women
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-08-29
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/cx2da1/i_like_my_coffee_like_i_like_my_women/
 index: 1
 ---
+
+This is an anti-anti-joke I wrote while I was in Berlin during a family vacation with my mom and brother. It's the first large-scale anti-anti-joke I wrote, and it set the standard for the kind of absurd semi-philosophical storytelling I wanted to use going forward.
+
+Although the joke contains a lot of deliberately vague hints for a backstory, I only got the idea to turn it into a series after it found success on Reddit.
 
 [STORY]
 

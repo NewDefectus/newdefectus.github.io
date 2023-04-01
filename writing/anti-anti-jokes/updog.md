@@ -5,6 +5,7 @@ title: >
 categories: writing anti-anti-jokes
 start-date: 2020-07-17
 end-date: 2020-07-17
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/hsyacm/man_sure_smells_like_updog_in_here/
 ---
 
 [STORY]

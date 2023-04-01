@@ -2,6 +2,7 @@
 layout: story
 title: The revered Knight of Knorway walks into a modern-day restaurant
 categories: writing anti-anti-jokes
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/d2ryi0/the_revered_knight_of_knorway_walks_into_a/
 end-date: 2019-09-11
 ---
 

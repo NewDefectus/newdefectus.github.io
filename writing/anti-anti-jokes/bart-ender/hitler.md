@@ -3,8 +3,11 @@ layout: story
 title: Why did Hitler kill himself?
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-09-06
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/d0m2sb/why_did_hitler_kill_himself_part_1_eternity/
 index: 2
 ---
+
+If [*Nate the Snake*](https://natethesnake.com/), at 10,801 words, is considered the [longest joke in the world](http://longestjokeintheworld.com/), then *Why did Hitler kill himself?*, at 12,006 words, is (as far as I know) the longest anti-anti-joke. In fact, because it is so long, it had to be retroactively split into 4 parts to fit in individual Reddit posts.
 
 [STORY]
 

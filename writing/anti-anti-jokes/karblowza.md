@@ -4,6 +4,7 @@ title: 20 Jokes That'll Make You Go "Karblowza!"
 categories: writing anti-anti-jokes
 start-date: 2019-12-20
 end-date: 2020-01-28
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/ihnul9/twenty_jokes_thatll_make_you_go_karblowza/
 tags: star
 ---
 

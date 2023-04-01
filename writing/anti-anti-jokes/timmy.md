@@ -4,6 +4,7 @@ title: >
  "Good morning, class! Today we're going to learn about the 9th letter in the alphabet."
 categories: writing anti-anti-jokes
 end-date: 2020-12-25
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/kjq8he/good_morning_class_today_were_going_to_learn/
 ---
 
 [STORY]

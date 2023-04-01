@@ -3,6 +3,7 @@ layout: story
 title: An ordinary man walks into a bar.
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-16
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/dirr8g/an_ordinary_man_walks_into_a_bar/
 index: 3
 ---
 

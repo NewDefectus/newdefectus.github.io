@@ -3,6 +3,7 @@ layout: story
 title: An escaped convict crawls into a penthouse
 categories: writing anti-anti-jokes bart-ender
 end-date: 2019-10-29
+publish-link: https://www.reddit.com/r/AntiAntiJokes/comments/doqlxq/an_escaped_convict_crawls_into_a_penthouse/
 index: 6
 ---
 
