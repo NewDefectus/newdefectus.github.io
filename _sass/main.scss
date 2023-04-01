@@ -61,6 +61,11 @@ iframe {
     background-color: #eee;
 }
 
+.mc-template img {
+    width: 400px;
+    height: auto;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #111;
