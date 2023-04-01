@@ -53,6 +53,14 @@ iframe {
     padding: 0 5px 0 5px;
 }
 
+.mc-template {
+    float: right;
+    display: block;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #eee;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #111;
@@ -70,6 +78,10 @@ iframe {
     .story {
         background-color: #1c1c1c;
     }
+
+    .mc-template {
+        background-color: #222;
+    }
 }
 
 @media only screen and (max-device-width: 600px) {
@@ -77,5 +89,13 @@ iframe {
         width: auto;
         margin: 0.5em;
         font-size: 1em;
+    }
+
+    .mc-template {
+        float: none
+    }
+
+    .mc-template img {
+        width: 100%
     }
 }
