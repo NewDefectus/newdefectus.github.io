@@ -2,5 +2,20 @@
 layout: creation
 ---
 
-{% include mc_template.html %}
+<div style="float: right; display: block">
+    <img src="{{ page.image | relative_url }}" width="300px" height="auto">
+    <br>
+    Published on {{ page.publish-date | date: "%B %e, %Y" }}
+    <br>
+    Minecraft version: {{ page.mc-version }}
+    <br>
+    <br>
+    {% if page.planet-mc %}
+    <a href="{{page.planet-mc}}">Planet Minecraft</a>
+    {% endif %}
+    <br>
+    {% if page.mc-maps %}
+    <a href="{{page.mc-maps}}">Minecraft Maps</a>
+    {% endif %}
+</div>
 {{ content }}
