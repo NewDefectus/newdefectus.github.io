@@ -1,8 +1,13 @@
 ---
-layout: creation
+layout: mc-map
 title: >
  Focused Location II: Age of Chains
 short-title: Focused Location II
 categories: games mc-spake
 index: 8
+
+image: assets/images/focused-location-2.png
+publish-date: 2016-04-03
+mc-version: 1.9
+planet-mc: https://www.planetminecraft.com/project/map-focused-location-ii-age-of-chains/
 ---
