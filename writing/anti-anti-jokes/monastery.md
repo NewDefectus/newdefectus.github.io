@@ -7,6 +7,8 @@ end-date: 2019-12-04
 tags: star
 ---
 
+[STORY]
+
 The monks graciously accept him, feed him dinner, even fix his car. As the man tries to fall asleep, he hears a strange sound—a kind of soft hum, barely there, hovering at the edge of his aural horizon. After some time, he decides to investigate.
 
 Wandering the halls, the man wonders to himself, why did the monks so readily accept his presence? Is it mere monksmanship, or perhaps have they some deeper factor to conceal? Who is this man, anyway?

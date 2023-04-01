@@ -6,6 +6,8 @@ start-date: 2020-02-09
 end-date: 2020-02-19
 ---
 
+[STORY]
+
 Then sometime in late February we woke up where we were before. Everyone else became vines. At first I thought this was another one of your tricks, but I parted the curtains and saw winter dawning on the grass. You're not capable of that.
 
 One of the machines growled. The noise was everywhere. It worked its way through my bones and shook my core. For a moment, I felt nothing. Then the feeling subsided.

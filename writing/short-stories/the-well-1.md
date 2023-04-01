@@ -1,10 +1,13 @@
 ---
 layout: story
 title: The Well (version 1)
+story-title: The Well
 categories: writing short-stories
 start-date: 2020-02-03
 end-date: 2020-02-05
 ---
+
+[STORY]
 
 One day I decided I was fed up with how we shared our goods. Not because it was a chore to climb down the hill only to scale someone else's just for a loaf of bread in the morning—as a matter of fact, I enjoyed those early walks. It was the frequent interruptions on my hill made by someone popping up for a bucket that got on my nerves. Every time I would insist, "Just send me a letter. I can carry it for you." I don't think they believed me.
 

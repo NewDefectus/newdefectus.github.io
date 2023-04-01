@@ -6,6 +6,8 @@ start-date: 2020-08-27
 end-date: 2020-08-28
 ---
 
+[STORY]
+
 and sees a bar up ahead. The horse walks into the bar and sees a shadow serving drinks.
 
 "Ah, look who came crawling back! Potuous, my man, how's it been?"

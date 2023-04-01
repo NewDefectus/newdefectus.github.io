@@ -6,6 +6,8 @@ end-date: 2019-08-29
 index: 1
 ---
 
+[STORY]
+
 says the grizzly bartender, stroking his silver goatee.
 
 The woman across the counter recoils in revulsion, and proceeds to spit on the counter. "Yuck! Men only want sex! That's all they think about all the time! Sex, sex, sex! I can't even get a drink, for god's sake!" She storms out the door and leaves a one star review on Google.

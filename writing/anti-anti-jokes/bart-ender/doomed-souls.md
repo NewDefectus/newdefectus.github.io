@@ -6,6 +6,8 @@ end-date: 2019-10-24
 index: 5
 ---
 
+[STORY]
+
 This is the first question that crosses Clie's mind as she awakens, and she's not entirely sure why.
 
 She stands on her quivering feet and throws a stare through the locomotive window. A vast view of some otherworldly sky encompasses the train, with small islands scattered about that seem to hover in the air. A cold draft rushes into the carriage, sending a shiver through her body.

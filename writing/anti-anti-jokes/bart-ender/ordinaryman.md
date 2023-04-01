@@ -6,6 +6,8 @@ end-date: 2019-10-16
 index: 3
 ---
 
+[STORY]
+
 "What'll it be, Ordinaryman?" the bartender chuckles.
 
 The man doesn't respond. He simply grabs a stool and sits on it quietly.

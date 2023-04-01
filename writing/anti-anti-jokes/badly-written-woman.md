@@ -6,6 +6,8 @@ start-date: 2019-09-16
 end-date: 2019-09-19
 ---
 
+[STORY]
+
 "Oh, doctor!" she moans. "I have a terrible condition!"
 
 "Er," says the receptionist. "Ma'am, would you like to book a—"

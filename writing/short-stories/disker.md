@@ -6,6 +6,8 @@ start-date: 2018-10-20
 end-date: 2018-12-09
 ---
 
+[STORY]
+
 There's something undeniably ethereal about the nighttime highlands. Some say it's the unmatched landscape; others argue it's the immaculate view of the stars; still others believe that the ancient ghost of a dweller haunts the land and tricks the unwary wanderer into delirium.
 
 I choose not to believe the third view. Not because I doubt the ghost, but because I so desperately want to believe that Disker was real.

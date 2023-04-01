@@ -7,6 +7,8 @@ end-date: 2020-01-28
 tags: star
 ---
 
+[STORY]
+
 ## #1 "I Am"
 
 Mrs. Smith walks into a classroom of first-graders. "Good morning, class!" she says. "Today we will learn the letter 'I'. Who can give me a sentence with an 'I' in it?"

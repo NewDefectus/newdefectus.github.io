@@ -6,6 +6,8 @@ start-date: 2018-09-23
 end-date: 2018-10-16
 ---
 
+[STORY]
+
 I confess, I was none too alert when that terrible mishap occurred. It was a rough day at the factory, and, rather than calming me, the pair of light beers I grabbed at the gas station only left me more distrait. The surge of adrenaline I so horribly needed only arrived after I heard that sound… that awful, awful sound…
 
 Instinctively, I went rigid and waited for my groggy head to collect itself. Once it did, I leapt out of the car and checked the rear.

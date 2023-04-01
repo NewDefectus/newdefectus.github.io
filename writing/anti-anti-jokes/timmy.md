@@ -6,6 +6,8 @@ categories: writing anti-anti-jokes
 end-date: 2020-12-25
 ---
 
+[STORY]
+
 "This letter is the letter 'I'. Can anyone give me a sentence containing this letter?"
 
 Little Timmy raises his hand.

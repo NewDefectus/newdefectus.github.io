@@ -5,6 +5,8 @@ categories: writing anti-anti-jokes
 end-date: 2019-09-11
 ---
 
+[STORY]
+
 The restaurantender asks him, "The punchline only makes sense if you pronounce all the K's."
 
 The revered Knight of Knorway responds, "…what?"

@@ -5,6 +5,8 @@ categories: writing anti-anti-jokes
 end-date: 2019-10-04
 ---
 
+[STORY]
+
 What do you mean? Of course he could clap his hands.
 
 Ever since that gigantic asteroid collided with the surface of the Earth, nothing had been the same. The whole world had leapt from one state to another in a blink of the eye. A new era dawned upon the few survivors, one they feared, yea, hoped would end soon enough.

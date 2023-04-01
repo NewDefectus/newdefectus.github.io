@@ -5,6 +5,8 @@ categories: writing anti-anti-jokes
 end-date: 2019-09-24
 ---
 
+[STORY]
+
 Now I have freed you from the shackles of dialogue, and you have become my successor.
 
 What? What is this? Who are you? Hello?

@@ -6,6 +6,8 @@ end-date: 2019-10-21
 index: 4
 ---
 
+[STORY]
+
 The economist spots a brown cow standing parallel to the train and says, "Look! The cows in Scotland are brown!"
 
 The logician, who secretly has a crush on the economist but nevertheless respects her profession, counters, "No; a more accurate assessment of this situation is that there are cows in Scotland, and at least one of them is brown."

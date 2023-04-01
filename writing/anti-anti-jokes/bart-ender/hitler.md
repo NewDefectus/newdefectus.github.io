@@ -6,6 +6,8 @@ end-date: 2019-09-06
 index: 2
 ---
 
+[STORY]
+
 ## Part 1: Eternity
 
 Everything will begin…

@@ -5,6 +5,8 @@ categories: writing anti-anti-jokes
 end-date: 2020-10-11
 ---
 
+[STORY]
+
 "Well, I'll be! I guess abstract mathematical concepts do exist as physical phenomena!"
 
 The number 1 looks up at the mathematician. "Are you my daddy?" it asks.

@@ -18,6 +18,10 @@ header h1 {
     margin-top: 0;
 }
 
+h1 {
+    margin-bottom: 0;
+}
+
 nav {
     font-size: 0.65em;
 }
@@ -43,6 +47,12 @@ iframe {
     color: orange
 }
 
+.story {
+    background-color: #eee;
+    border-radius: 10px;
+    padding: 0 5px 0 5px;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #111;
@@ -55,6 +65,10 @@ iframe {
 
     a {
         color: lightblue
+    }
+
+    .story {
+        background-color: #1c1c1c;
     }
 }
 

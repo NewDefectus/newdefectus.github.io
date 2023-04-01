@@ -6,6 +6,8 @@ start-date: 2018-09-07
 end-date: 2018-09-13
 ---
 
+[STORY]
+
 It was a particularly cold November evening, I recollect. It had rained the previous day, and the nostalgic petrichor still lingered in the damp air. Though my feet tapped eagerly at the floor, longing for that wonderful feeling of adventure, the mere thought of leaving the comfort of my couch displeased me. I suspected I'd caught some sort of fever during one of my expeditions, though I only inferred that possibility from the uncharacteristic urge that ordered me to keep watching the crackling fire.
 
 With each thrilling draft that crept through the window and yet somehow failed to seduce my eyes away from the hearth, the feeling that something was wrong grew vivider. I failed to recall the last time my boots were empty for this long. In fact, I was starting to realize how little I knew about my house. Had the light always flickered like that? Had the sink always been in that corner? Since when had the floorboards creaked so subtly under my feet?

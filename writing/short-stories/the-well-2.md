@@ -1,11 +1,14 @@
 ---
 layout: story
 title: The Well (version 2)
+story-title: The Well
 categories: writing short-stories
 start-date: 2020-04-10
 end-date: 2020-06-08
 tags: star
 ---
+
+[STORY]
 
 Creeeeaaak. Creeeeaaak. Creeee—swoosh, splash!
 

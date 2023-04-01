@@ -7,6 +7,8 @@ start-date: 2019-10-29
 end-date: 2019-12-11
 ---
 
+[STORY]
+
 asked the interviewer.
 
 "Well," I began, "that is a very good question." I took a long sip from my glass of water, which I had already nearly emptied. "But I'm afraid I cannot answer it—you see, I don't have twenty-twenty vision."
