@@ -3,7 +3,8 @@ layout: creation
 ---
 
 <div class="mc-template">
-    <img src="{{ page.image | relative_url }}">
+    {% assign page_name = page.name | split: '.' | first %}
+    <img src="{{ '/assets/images/mc-maps/' | append: page_name | append: '/thumb.png' | relative_url }}">
     <br>
     Published on {{ page.publish-date | date: "%B %e, %Y" }}
     <br>

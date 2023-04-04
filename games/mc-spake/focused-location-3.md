@@ -6,7 +6,6 @@ short-title: Focused Location III
 categories: games mc-spake
 index: 9
 
-image: assets/images/focused-location-3.png
 publish-date: 2016-06-24
 mc-version: 1.10.2
 planet-mc: https://www.planetminecraft.com/project/focused-location-iii---terminal-terminated/
