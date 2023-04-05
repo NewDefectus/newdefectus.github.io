@@ -34,7 +34,7 @@ This system also ended up being used in [*Arrendor*]({% link games/mc-defectus/a
 
 In hindsight, there was one detail that remained from the SpakeMiner maps which I neglected to lose (or maybe just couldn't handle losing): the inclusion of music from the excellent [soundtrack](https://dualryan.bandcamp.com/album/the-beginners-guide-soundtrack) of [The Beginner's Guide](https://thebeginnersgui.de/), of which I was, and remain to this day, a huge fan (both the OST and the game itself). This map makes use of the track "Shutter," and I believe [*Focused Location*]({% link games/mc-spake/focused-location.md %}) used the track "Va" near the beginning.
 
-Also on the subject of The Beginner's Guide, *What It's Like* also lifts a design element directly from the game's third chapter for the corridors:
+On the subject of The Beginner's Guide, *What It's Like* also lifts a design element directly from the game's third chapter for the corridors:
 
 <img src="{{ image_dir }}/corridor-example.png" style="display: inline; width: 49%">
 <img src="{{ image_dir }}/corridor-example-tbg.png" style="display: inline; width: 49%">
