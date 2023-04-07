@@ -70,6 +70,24 @@ img {
     max-width: 100%;
 }
 
+.image-gallery {
+    width: 980px;
+    max-width: 100%;
+}
+
+.gallery-selector {
+    cursor: pointer;
+}
+
+.gallery-selector:hover {
+    opacity: 60%;
+}
+
+.gallery-selector.selected {
+    opacity: 50%;
+    cursor: auto;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #111;

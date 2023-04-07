@@ -14,11 +14,8 @@ mc-maps: https://www.minecraftmaps.com/adventure-maps/what-its-like
 
 *What It's Like* is the first map I released under the name Defectus. It's a semi-short walking simulator where the player traverses a series of descending "floors," where each floor simulates (in a very abstract sense) an affliction of some kind - these being, in order: blindness, deafness, muteness, depression, and death.
 
-<img src="{{ image_dir }}/blindness.png">
-<img src="{{ image_dir }}/deafness.png">
-<img src="{{ image_dir }}/muteness.png">
-<img src="{{ image_dir }}/depression.png">
-<img src="{{ image_dir }}/death.png">
+{% assign images = "blindness.png deafness.png muteness.png depression.png death.png" | split: " " %}
+{% include gallery.html %}
 
 The first 3 levels are mostly experimental, I was just curious to see what it would look like to simulate different disabilities in Minecraft. The fourth level was inspired by experiences I went through during the last few months I went by the name SpakeMiner.
 

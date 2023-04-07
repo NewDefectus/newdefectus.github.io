@@ -1,0 +1,7 @@
+{% assign image_count = images | size %}
+
+<div class="image-gallery"><img src="{{ image_dir }}/{{images | first}}" width="100%" style="display: block">
+{% for image in images %}<img class="gallery-selector{% if forloop.first %} selected{% endif %}" src="{{ image_dir }}/{{image}}" onclick="gallery_select(this)" width="{{ 100.0 | divided_by: image_count }}%">{% endfor %}
+</div>
+
+<script src="{{ '/assets/js/gallery.js' | relative_url }}"></script>
