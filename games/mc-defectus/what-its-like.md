@@ -36,8 +36,8 @@ In hindsight, there was one detail that remained from the SpakeMiner maps which 
 
 On the subject of The Beginner's Guide, *What It's Like* also lifts a design element directly from the game's third chapter for the corridors:
 
-<img src="{{ image_dir }}/corridor-example.png" style="display: inline; width: 49%">
-<img src="{{ image_dir }}/corridor-example-tbg.png" style="display: inline; width: 49%">
+<img src="{{ image_dir }}/corridor-example.png" style="width: 49%">
+<img src="{{ image_dir }}/corridor-example-tbg.png" style="width: 49%">
 
 *What It's Like* also contains the first appearance of the NPC that would later be nicknamed "Bill" in *Arrendor*. Internally this NPC is referred to as BDM (the initials of the first 3 levels - Blindness, Deafness, Muteness). The original idea was for the character to appear in every Defectus map, each time with a different role, and he would act like a kind of benevolent G-Man, linking the maps somehow. This idea kind of fell apart with [*Internal Admiration*]({% link games/mc-defectus/internal-admiration.md %}), though.
 
