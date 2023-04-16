@@ -1,7 +1,22 @@
 {% assign image_count = images | size %}
 
-<div class="image-gallery"><img src="{{ image_dir }}/{{images | first}}" width="100%" style="display: block">
-{% for image in images %}<img class="gallery-selector{% if forloop.first %} selected{% endif %}" src="{{ image_dir }}/{{image}}" onclick="gallery_select(this)" width="{{ 100.0 | divided_by: image_count }}%">{% endfor %}
+{% assign selectors_per_line = image_count %}
+
+{% if image_count > 6 %}
+    {% assign mod_2 = selectors_per_line | modulo: 2 %}
+    {% assign selectors_per_line = selectors_per_line | plus: mod_2 | divided_by: 2 %}
+{% endif %}
+
+
+<div class="image-gallery">
+    <div class="gallery-image-container">
+        <img src="{{ image_dir }}/{{images | first}}" class="gallery-image">
+    </div>
+    <div class="gallery-selector-container">
+{% for image in images %}
+        <img class="gallery-selector{% if forloop.first %} selected{% endif %}" src="{{ image_dir }}/{{image}}" onclick="gallery_select(this)" width="{{ 100.0 | divided_by: selectors_per_line }}%">
+{% endfor %}
+    </div>
 </div>
 
 <script src="{{ '/assets/js/gallery.js' | relative_url }}"></script>

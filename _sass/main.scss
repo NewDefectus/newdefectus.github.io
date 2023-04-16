@@ -73,18 +73,39 @@ img {
 .image-gallery {
     width: 980px;
     max-width: 100%;
+    background-color: #eee;
+}
+
+.gallery-image {
+    width: 100%;
+    margin: auto;
+}
+
+.gallery-image-container {
+    aspect-ratio: 3/2;
+    display: flex;
+    background-color: #e8e8e8;
+}
+
+.gallery-selector-container {
+    font-size: 0px;
 }
 
 .gallery-selector {
+    display: inline-block;
     cursor: pointer;
-}
-
-.gallery-selector:hover {
+    aspect-ratio: 3/2;
+    max-height: 120px;
+    object-fit: cover;
     opacity: 60%;
 }
 
+.gallery-selector:hover {
+    opacity: 80%;
+}
+
 .gallery-selector.selected {
-    opacity: 50%;
+    opacity: 100%;
     cursor: auto;
 }
 
@@ -108,6 +129,14 @@ img {
 
     .mc-template {
         background-color: #222;
+    }
+
+    .image-gallery {
+        background-color: #222;
+    }
+
+    .gallery-image-container {
+        background-color: #181818;
     }
 }
 
