@@ -17,10 +17,12 @@ planet-mc: https://www.planetminecraft.com/project/adventure-map-focused-locatio
 {% assign images = "mesa.png train.png dock.png ship.png airport.png airport-inside.png plane.png plane-flight.png" | split: " " %}
 {% include gallery.html %}
 
-In *Focused Location*, the player follows the instructions of a mysterious man on the telephone to go to an unspecified location, along the way travelling via a train, a ship, and an airplane. In each of these sequences the player is attacked by various henchmen, including train-robbing bandits, pirates, and... uh, helicopter-piloting, plane-robbing bandits, I guess. Also you fight some sort of enemy manifestation of lightning bolts at the very end, for some reason.
+In *Focused Location*, the player follows the instructions of a mysterious man on the telephone to go to an unspecified location, along the way travelling via a train, a ship, and an airplane. In each of these sequences the player is attacked by various henchmen, including train-robbing bandits, pirates (among them the "Silver Pirate"), and... uh, helicopter-piloting, plane-robbing bandits, I guess. Also you fight some sort of enemy manifestation of lightning bolts at the very end, for some reason.
 
 {% assign images = "battle-train-1.png battle-train-2.png battle-ship-1.png battle-ship-2.png battle-plane-1.png battle-plane-2.png" | split: " " %}
 {% include gallery.html %}
+
+Little fun sidenote: the Silver Pirate is a reference to the antagonists of *PeaceLand*, an unreleased parkour map that I made a year prior. In it, the Silver Pirates are a group of adventurers who became corrupted by the treasure of Atlantis, and who now kill anyone who comes into their cave in order to magnify their powers.
 
 Interspersed throughout the map are short "dream" sequences that occur after each time a player sleeps in a bed. These depict events that have occurred in the past during both the InfiniSalmon and the Map series, like the parkour, boss, and ending of [*InfiniSalmon 3*]({% link games/mc-spake/infinisalmon-3.md %}), the Redstone Hall in [*Map*]({% link games/mc-spake/map.md %}), and the Voidborders portal in [*Voidborders*]({% link games/mc-spake/voidborders.md %}). The latter two gain more significance later in the series, with Voidborders becoming a character in [*Focused Location 2*]({% link games/mc-spake/focused-location-2.md %}), and the Redstone Hall becoming integral to the ending of [*Focused Location 3*]({% link games/mc-spake/focused-location-3.md %}). The final dream also contains a recreation of [LOL! LIMEWIRE!](https://www.youtube.com/watch?v=Th6PW5VwDFI), for some reason, that uses [Datenegassie's video player](https://www.youtube.com/watch?v=pgnCC0DejUQ) concept.
 
