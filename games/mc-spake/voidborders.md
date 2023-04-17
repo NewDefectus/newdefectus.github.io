@@ -13,7 +13,7 @@ planet-mc: https://www.planetminecraft.com/project/adventure-map-sequel-to-map-2
 
 *Voidborders* is the sequel to [*Map 2*]({% link games/mc-spake/map-2.md %}). As the final entry in the Map series, it's an odd one at that - it's the only one to feature an actual non-ironic map, at least partially.
 
-The first part of the map presents a legitimate story about a criminal escaping prison and going on an adventure to find the Voidborders, a legendary realm found underneath the void.
+The first part of the map presents a legitimate story about a criminal escaping prison and going on an adventure to find the Voidborders, a legendary realm found underneath the void. This dimension doesn't actually appear within the map, although it is shown and expanded upon in [*Focused Location 2*]({% link games/mc-spake/focused-location-2.md %}).
 
 {% assign images = "lobby.png cell.png prison.png valley.png witch.png cave.png void.png temple.png" | split: " " %}
 {% include gallery.html %}
