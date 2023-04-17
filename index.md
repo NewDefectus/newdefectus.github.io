@@ -1,6 +1,6 @@
 ---
 layout: index
-title: DefSite
+title: Home
 ---
 
 Hi! I'm Alon Ran (aka Defectus). Welcome to my website! :D
