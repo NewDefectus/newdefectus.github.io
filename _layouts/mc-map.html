@@ -2,6 +2,7 @@
 layout: creation
 ---
 
+{% if page.publish-date %}
 <div class="mc-template">
     {% include mcmap-imgpath.html %}
     <img src="{{ image_dir }}/thumb.png">
@@ -19,4 +20,6 @@ layout: creation
     <a href="{{page.mc-maps}}">Minecraft Maps</a>
     {% endif %}
 </div>
+{% endif %}
+
 {{ content }}
