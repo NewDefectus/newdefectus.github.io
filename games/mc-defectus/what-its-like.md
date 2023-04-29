@@ -23,7 +23,7 @@ Both tonally and conceptually, I think *What It's Like* is quite jarringly diffe
 
 <img src="{{ image_dir }}/cmd-blocks-fl3.png">
 
-Very messy, very ugly, very SpakeMiner-y. So for *What It's Like* I wanted to build it differently. I found a way to implement delays between events without using repeaters, which allowed me to be more organized and compact with the command blocks. The result is what you see here:
+Very messy, very ugly, very SpakeMiner-y. So for *What It's Like* I wanted to build it differently. I came up with a tape-like system where command blocks were laid out in straight lines, with a marker entity moving across these lines, activating them in succession with a scoreboard timer to create delays between events. The result is what you see here:
 
 <img src="{{ image_dir }}/cmd-blocks-wil.png">
 
