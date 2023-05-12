@@ -6,11 +6,11 @@ tags: star
 index: 1
 ---
 
-[DefAssembler](https://github.com/NewDefectus/defAsm) is an assembler (an Assembly compiler) for the x86-64 instruction set that is made to run in real-time on browsers. For this purpose it is written in JavaScript, and it's designed to integrate incremental changes to the source code efficiently.
+[DefAssembler](https://github.com/NewDefectus/defasm) is an assembler (an Assembly compiler) for the x86-64 instruction set that is made to run in real-time on browsers. For this purpose it is written in JavaScript, and it's designed to integrate incremental changes to the source code efficiently.
 
 I started working on DefAssembler in early 2021. The original motivation, and the main reason it's used today, is to aid code-golfing in Assembly. More specifically, it was written to allow [code.golf](https://code.golf/) to add Assembly as a language. It took around 3 months (between February and May) to develop the assembler to the point where it could be run on the site, and I've been maintaining the project since then.
 
-Here's a demo of the assembler, integrated into the CodeMirror editor (full page [here](https://newdefectus.github.io/defAsm/)):
+Here's a demo of the assembler, integrated into the CodeMirror editor (full page [here](https://newdefectus.github.io/defasm/)):
 
 <div class="defasm-editor" style="height: 20em">SYS_WRITE = 1
 SYS_EXIT = 60
@@ -99,7 +99,7 @@ xor (%rbx, %rax, 4), %esi</div>
 
 Another aspect of the assembler I'm pretty proud of is the compressed instruction set. One of the original solutions for DefAssembler's purpose was [ass-js](https://www.npmjs.com/package/ass-js), another x86-64 assembler for JavaScript. However, one thing I didn't like about it was that it kept a [complete JSON file for each mnemonic](https://github.com/streamich/ass-js/tree/master/mnemonics/x64) (instruction name), which I found a bit wasteful.
 
-For DefAssembler, I came up with a much more concise and tightly-packed format for instructions, which looks something like this (this is a modified excerpt from the [`core/mnemonicList.js`](https://github.com/NewDefectus/defAsm/blob/master/core/mnemonicList.js) file in the DefAssembler source code):
+For DefAssembler, I came up with a much more concise and tightly-packed format for instructions, which looks something like this (this is a modified excerpt from the [`core/mnemonicList.js`](https://github.com/NewDefectus/defasm/blob/master/core/mnemonicList.js) file in the DefAssembler source code):
 
 > ```
 > add
@@ -143,4 +143,4 @@ And so on! Note that technically an instruction like `add $40, %ax` fits both th
 
 For increased efficiency and memory, each instruction listing is only decoded when the instruction's name is parsed for the first time by the assembler; until then it's simply stored as a string.
 
-<script src="https://newdefectus.github.io/defAsm/make_editor_out.js"></script>
+<script src="https://newdefectus.github.io/defasm/make_editor_out.js"></script>
