@@ -13,7 +13,7 @@ planet-mc: https://www.planetminecraft.com/project/focused-location-iii---termin
 
 {% include mcmap-imgpath.html %}
 
-*Focused Location 3* is the sequel to [*Focused Location 2*]({% link games/mc-spake/focused-location.md %}) and the final published map in the SpakeMiner universe. As the de facto finale to the series, it contains numerous references to past maps and characters, including the , the potion-selling witch from [*Voidborders*]({% link games/mc-spake/voidborders.md %}) (now named Caroline, who has refurbished her lair into a potion shop), the Tower of Void from *Focused Location 2*, and the long-foreshadowed Ocean Monument, a gigantic guardian lair.
+*Focused Location 3* is the sequel to [*Focused Location 2*]({% link games/mc-spake/focused-location.md %}) and the final published map in the SpakeMiner universe. As the de facto finale to the series, it contains numerous references to past maps and characters, including the Temple of Organism from [*InfiniSalmon 2*]({% link games/mc-spake/infinisalmon-2.md %}), the potion-selling witch from [*Voidborders*]({% link games/mc-spake/voidborders.md %}) (now named Caroline, who has refurbished her lair into a potion shop), the Tower of Void from *Focused Location 2*, and the long-foreshadowed Ocean Monument, a gigantic guardian lair.
 
 {% assign images = "room.png portal.png pyramid.png pyramid-voidborders.png olis.png monument.png regeneration.png" | split: " " %}
 {% include gallery.html %}
