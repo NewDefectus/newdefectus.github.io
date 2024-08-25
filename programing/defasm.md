@@ -12,7 +12,9 @@ I started working on DefAssembler in early 2021. The original motivation, and th
 
 Here's a demo of the assembler, integrated into the CodeMirror editor (full page [here](https://newdefectus.github.io/defasm/)):
 
-<div class="defasm-editor" style="height: 20em">SYS_WRITE = 1
+<div class="defasm-editor" style="height: 20em">
+    <code>
+SYS_WRITE = 1
 SYS_EXIT = 60
 STDOUT_FILENO = 1
 
@@ -73,7 +75,9 @@ endArgLoop:
 
 mov $SYS_EXIT, %eax
 mov $0, %edi
-syscall</div>
+syscall
+    </code>
+</div>
 
 The binary output of each assembled line is displayed on its right; notice that if you change any line, its output (and sometimes the outputs of other lines) will change too.
 
@@ -83,7 +87,9 @@ To see this in action, you can press F3 in the CodeMirror editor to enable debug
 
 DefAssembler, similar to the GNU Assembler (gas), supports both AT&T and Intel syntaxes (syntices?). By default the AT&T syntax is chosen, however both syntaxes are supported simultaneously and can be switched back and forth (even in the middle of the code!) at will using the `.att_syntax` and `.intel_syntax` directives, as seen here:
 
-<div class="defasm-editor" style="height: 13em">.intel_syntax
+<div class="defasm-editor" style="height: 13em">
+    <code>
+.intel_syntax
 add eax, 20
 push rbx
 mov [325], al
@@ -93,7 +99,9 @@ xor esi, [rbx + rax * 4]
 add $20, %eax
 push %rbx
 mov %al, 325
-xor (%rbx, %rax, 4), %esi</div>
+xor (%rbx, %rax, 4), %esi
+    </code>
+</div>
 
 ## Instruction listings
 
@@ -134,10 +142,10 @@ Each instruction listing consists of a line or list of lines, with each line enc
 For example, the `add` instruction has 8 variations:
 
 * The first one, `04 i R_0bw`, is chosen if the instruction is supplied an immediate operand (`i`) followed by either an `al` or `ax` register (`R_0bw`: `R` means register type, `_0` means it must be a register of id 0 (`al`/`ax`/`eax`/`rax`), and `bw` means it can either be byte- or word-sized). When this variation is chosen, the opcode used for the encoding of this instruction is `04`. For example:
-> <div class='defasm-editor'>add $32, %al</div>
+> <div class='defasm-editor'><code>add $32, %al</code></div>
 
 * The second one, `83.0 Ib rwlq`, is chosen if the first operand is a byte-sized immediate (`Ib` (the capital I means the immediate is treated as signed)) and the second operand is a register or memory operand (`r`) of size word, long or quad (`wlq`). When this variation is chosen, the encoded opcode will be `83`, with an extension field of `0`. For example:
-> <div class='defasm-editor'>add $60, %ebx</div>
+> <div class='defasm-editor'><code>add $60, %ebx</code></div>
 
 And so on! Note that technically an instruction like `add $40, %ax` fits both the first and second variations, however the variations are checked for each instruction in top-to-bottom order, so the first variation will "catch" the instruction before the second.
 
